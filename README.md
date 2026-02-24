@@ -15,5 +15,5 @@ A l'Enssat (Lannion) suite au stage d'Antonin Dodet chez POP (Photonics Open Pro
 
 ## Programmes Python
 
-Ce sujet est lié à la version ONE_PIX_websocket_2 du logiciel embarqué sur le Raspberry.
-Il fait référence à des Jupyter Notebook hébergé sur ce même Github.
+Ce sujet est lié à la version ONE_PIX_websocket_2 du logiciel embarqué sur le Raspberry.<br>
+Il fait référence à des Jupyter Notebook hébergés sur ce même Github.
