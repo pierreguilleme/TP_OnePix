@@ -1,2 +1,19 @@
 # TP_OnePix
-Sujet du TP OnePix et programmes Python utilisés
+
+## Description
+
+Sujet du TP OnePix : imagerie monopixel hyperspectral
+Version pour les étudiants de 2ème année Photonique
+Créé en septembre - octobre 2025
+A l'Enssat (Lannion) suite au stage d'Antonin Dodet chez POP (Photonics Open Project) encadré par Thomas Lebrat
+
+## Contenu du repository
+
+- Fichier source tex
+- Fichier compilé pdf
+- Dossier images
+
+## Programmes Python
+
+Ce sujet est lié à la version ONE_PIX_websocket_2 du logiciel embarqué sur le Raspberry.
+Il fait référence à des Jupyter Notebook hébergé sur ce même Github.
